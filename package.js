@@ -1,13 +1,13 @@
 Package.describe({
   name: 'stampitorg:stampit',
-  version: '2.1.0',
+  version: '2.1.1',
   summary: 'OOP is better with stamps: Composable object factories',
   git: 'https://github.com/stampit-org/stampit-meteor',
   documentation: 'README.md'
 });
 
 Npm.depends({
-  "stampit": "2.1.0"
+  "stampit": "2.1.1"
 });
 
 Package.onUse(function(api) {
